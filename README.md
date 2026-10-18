@@ -288,13 +288,7 @@ Modification aléatoire d'une solution.
 
 Création d'une nouvelle population.
 
----
 
-## Résultat d'exécution
-
-images/resultat_genetique.png
-
----
 
 # Comparaison des Méthodes
 
