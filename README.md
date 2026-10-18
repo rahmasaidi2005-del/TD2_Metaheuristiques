@@ -270,17 +270,7 @@ T = T × 0.8
 
 ---
 
-## Résultats d'exécution
 
-### Exécution 1
-
-images/resultat_recuit.png
-
-### Exécution 2
-
-images/resultat_recuit2.png
-
----
 
 # Algorithme Génétique
 
