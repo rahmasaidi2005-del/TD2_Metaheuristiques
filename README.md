@@ -130,11 +130,7 @@ Coût Total = 52
 
 ---
 
-## Résultat d'exécution
 
-images/resultat_ex2.png
-
----
 
 # Exercice 3 : Problème du Voyageur de Commerce
 
@@ -389,25 +385,7 @@ TD2_Metaheuristiques
 
 ---
 
-# Exécution
 
-```bash
-python ex2_transport_tabou.py
-```
-
-```bash
-python ex3_tabou.py
-```
-
-```bash
-python ex3_recuit_simule.py
-```
-
-```bash
-python ex3_genetique.py
-```
-
----
 
 # Conclusion
 
