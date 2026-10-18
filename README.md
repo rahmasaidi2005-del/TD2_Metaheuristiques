@@ -220,21 +220,7 @@ Une liste tabou est utilisée pour empêcher le retour vers des solutions déjà
 
 ---
 
-## Résultats d'exécution
 
-### Exécution 1
-
-images/resultat_tabou.png
-
-### Exécution 2
-
-images/resultat_tabou2.png
-
-### Exécution 3
-
-images/resultat_tabou3.png
-
----
 
 # Recuit Simulé
 
